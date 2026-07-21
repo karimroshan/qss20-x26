@@ -1,13 +1,1 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
-
-# DS Store
-.DS_Store
+activities/.ipynb_checkpoints/00_pandas_datacleaning_blank-checkpoint.ipynb
