@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.7)  20 JUL 2026 23:27
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.7)  23 JUL 2026 17:59
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"/Users/rk/Documents/Dartmouth/26X/QSS 20/Projects/Literature Review/main.tex"
@@ -780,6 +780,11 @@ Module citeproc Warning: Duplicate entry key 'fuNewPerformanceIndex2007' in
 
 
 Module citeproc Warning: Duplicate entry key
+(citeproc)               'jeneliusPublicTransportExperienced2018' in
+(citeproc)               'references.bib'.
+
+
+Module citeproc Warning: Duplicate entry key
 (citeproc)               'lucasTransportSocialExclusion2012' in
 (citeproc)               'references.bib'.
 
@@ -789,7 +794,7 @@ Module citeproc Warning: Duplicate entry key 'lyuAnalyzingImpactService2026'
 
 
 Module citeproc Warning: Duplicate entry key
-(citeproc)               'martensTransportJusticeDesigning2017' in
+(citeproc)               'martensTransportJusticeDesigning2016' in
 (citeproc)               'references.bib'.
 
 
@@ -804,7 +809,12 @@ Module citeproc Warning: Duplicate entry key
 
 
 Module citeproc Warning: Duplicate entry key
-(citeproc)               'pereiraTransportLegacyMegaevents2021' in
+(citeproc)               'pereiraTransportLegacyMegaevents2020' in
+(citeproc)               'references.bib'.
+
+
+Module citeproc Warning: Duplicate entry key
+(citeproc)               'vanoortIncorporatingServiceReliability2014' in
 (citeproc)               'references.bib'.
 
 
@@ -842,62 +852,98 @@ Package pgfplots notification 'compat/show suggested version=true': document has
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \hbox (badness 1496) in paragraph at lines 97--98
+Underfull \hbox (badness 1496) in paragraph at lines 101--102
 \TU/CharisSIL(0)/m/n/12 dis-tri-bu-tion of Ac-ces-si-bil-ity to Ur-ban Des-ti-na-tions.” \TU/CharisSIL(0)/m/it/12 Cities \TU/CharisSIL(0)/m/n/12 81:45–60. doi:
  []
 
-<images/mindmap.png, id=95, 1974.37625pt x 940.51375pt>
-File: images/mindmap.png Graphic file (type png)
-<use images/mindmap.png>
-Package luatex.def Info: images/mindmap.png  used on input line 114.
-(luatex.def)             Requested size: 234.87749pt x 111.8809pt.
 
 
 [2]
+<images/mindmap.png, id=159, 1974.37625pt x 940.51375pt>
+File: images/mindmap.png Graphic file (type png)
+<use images/mindmap.png>
+Package luatex.def Info: images/mindmap.png  used on input line 129.
+(luatex.def)             Requested size: 234.87749pt x 111.8809pt.
 
-[3<./images/mindmap.png>] (./main.aux)
+
+[3<./images/mindmap.png>]
+
+[4]
+
+[5]
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 198.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 198.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 198.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 198.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 198.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+Underfull \hbox (badness 5667) in paragraph at lines 202--202
+[]\TU/CharisSIL(0)/m/n/12 Pereira, Rafael H. M. 2018. “Trans-port Legacy of Mega-Events and the Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+\TU/CharisSIL(0)/m/n/12 dis-tri-bu-tion of Ac-ces-si-bil-ity to Ur-ban Des-ti-na-tions.” \TU/CharisSIL(0)/m/it/12 Cities \TU/CharisSIL(0)/m/n/12 81:45–60. doi:
+ []
+
+
+
+[6]
+Underfull \hbox (badness 7012) in paragraph at lines 202--202
+[]\TU/CharisSIL(0)/m/n/12 Pereira, Rafael H. M., Tim Schwa-nen, and David Ban-is-ter. 2017. “Dis-tribu-
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 202--202
+[]\TU/CharisSIL(0)/m/n/12 Welch, Tim-o-thy F., and Sabyasachee Mishra. 2013. “A Mea-sure of Eq-uity for
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 202--202
+\TU/CharisSIL(0)/m/n/12 Pub-lic Tran-sit Con-nec-tiv-ity.” \TU/CharisSIL(0)/m/it/12 Jour-nal of Trans-port Ge-og-ra-phy \TU/CharisSIL(0)/m/n/12 33(C):29–41. doi:
+ []
+
+
+
+[7] (./main.aux
+\csl@aux@options{0}{entry-ids={allenSizingTransportPoverty2019, draperDefinitionsRailwayPerformance2017, fuNewPerformanceIndex2007, jeneliusPublicTransportExperienced2018, lucasTransportSocialExclusion2012, lyuAnalyzingImpactService2026, martensTransportJusticeDesigning2016, pereiraTransportLegacyMegaevents2018, pereiraTransportLegacyMegaevents2020, pereiraDistributiveJusticeEquity2017, vanoortIncorporatingServiceReliability2014, welchMeasureEquityPublic2013}}
+)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 33229473A92939A5F0C379A2AD6FE60C;1094.
+(rerunfilecheck)             Checksum: F9A4116B65295BDCDCA7EB8A07F9A90E;1512.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35495 strings out of 475512
+ 35714 strings out of 475512
  125086,1648299 words of node,token memory allocated
- 658 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 17 attribute, 63 glue_spec, 17 attribute_list, 2 shape, 2 write, 10 pdf_action nodes
-   avail lists: 2:481,3:337,4:139,5:72,6:72,7:6767,9:435,10:9,11:494
- 57618 multiletter control sequences out of 65536+600000
- 34 fonts using 11256991 bytes
- 84i,12n,92p,796b,495s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 718 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 23 attribute, 63 glue_spec, 23 attribute_list, 2 shape, 2 write, 16 pdf_action nodes
+   avail lists: 2:463,3:316,4:136,5:72,6:61,7:8557,8:83,9:412,10:20,11:817
+ 57751 multiletter control sequences out of 65536+600000
+ 106 fonts using 16823695 bytes
+ 84i,12n,92p,796b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Regular.ttf>
+Output written on main.pdf (7 pages, 264043 bytes).
 
-warning  (pdf backend): unreferenced destination with name 'cite0.pereiraTransportLegacyMegaevents2021'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.pereiraTransportLegacyMegaevents2018'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.welchMeasureEquityPublic2013'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.lyuAnalyzingImpactService2026'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.fuNewPerformanceIndex2007'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.draperDefinitionsRailwayPerformance2017'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.allenSizingTransportPoverty2019'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.pereiraDistributiveJusticeEquity2017'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.lucasTransportSocialExclusion2012'
-
-warning  (pdf backend): unreferenced destination with name 'cite0.martensTransportJusticeDesigning2017'
-</usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Italic.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Bold.ttf></usr/local/texlive/2024/texmf-dist/fonts/truetype/SIL/charissil/CharisSIL-Regular.ttf>
-Output written on main.pdf (3 pages, 236261 bytes).
-
-PDF statistics: 147 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 131072)
- 72 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 250 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 131072)
+ 104 words of extra memory for PDF output out of 10000 (max. 100000000)
 
