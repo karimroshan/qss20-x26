@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "gensim>=4.4.0",
     "geopandas>=1.1.4",
+    "graphviz>=0.21",
     "ipykernel>=7.3.0",
     "nltk>=3.10.1",
     "numpy>=2.5.0",
